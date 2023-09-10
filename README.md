@@ -1,4 +1,4 @@
-## Figma URL
+<!-- ## Figma URL
 
 [Unsplash Images](https://www.figma.com/file/O2MaAAlr4nznh7m53azatL/Unsplash-images?node-id=0%3A1&t=cYDOCgqOs9IX2If0-1)
 
@@ -160,4 +160,4 @@ Therefore, without including searchTerm in the queryKey array, the useQuery hook
 
 #### Vite ENV Vars
 
-- .env : must be included in .gitignore
+- .env : must be included in .gitignore -->
